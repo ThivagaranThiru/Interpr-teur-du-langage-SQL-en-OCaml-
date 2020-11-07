@@ -1,4 +1,4 @@
-# Interpreteur-du-langage-SQL-en-OCaml-
+# Interpreteur-du-langage-SQL
 
 Le projet consiste à réaliser en OCaml un interprète du langage SQL. La réalisation minimale consiste à évaluer une requête SQL simple (i.e., SELECT … FROM … WHERE …).
 
