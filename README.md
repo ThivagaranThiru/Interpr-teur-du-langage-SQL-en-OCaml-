@@ -33,7 +33,7 @@ Un environnement est une liste triée de couples (nom, valeur), peu importe le t
 
 Faites un make pour compiler.
 
-
+Technologies utilisées : Ocaml, Sublime Text.
 
 
 
